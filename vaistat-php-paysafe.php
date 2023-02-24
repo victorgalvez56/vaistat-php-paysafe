@@ -7,6 +7,8 @@
     <title>Vaistat heroku</title>
 </head>
 <body>
+    <?php echo 'Este mensaje es php'; ?>
+    
     
 </body>
 </html>
